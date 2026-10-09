@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "title": "IPhone 17 CH",
+        "image": "https://dkstatics-public.digikala.com/digikala-products/0a8fff942ea8ee0359edadad85daae399b0e357c_1763462145.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+        "desc": "256G - 8G",
+        "price": 165899000,
+        "category": "phone",
+        "brand": "Iphone"
+    },
+    {
+        "id": 2,
+        "title": "Iphone 17 Pro Max",
+        "image": "https://dkstatics-public.digikala.com/digikala-products/ecff4569f337a0af40c820ba8e09f9f3ce0a76c6_1759666791.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+        "desc": "1T - 8G",
+        "price": 239899000,
+        "category": "phone",
+        "brand": "Iphone"
+    },
+    {
+        "id": 3,
+        "title": "Iphone 17 Pro ZAA",
+        "image": "https://dkstatics-public.digikala.com/digikala-products/79bdac3b8275d977c88c804ecc2ff1187db687d5_1760525882.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+        "desc": "256G - 12G",
+        "price": 228000000,
+        "category": "phone",
+        "brand": "Iphone"
+    },
+        {
+        "id": 4,
+        "title": "IPhone 16 CH",
+        "image": "https://dkstatics-public.digikala.com/digikala-products/5af568b4909435c6a215ad5e728e902db234b673_1736597759.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+        "desc": "256G - 8G",
+        "price": 150000000,
+        "category": "phone",
+        "brand": "Iphone"
+    }
+]
+

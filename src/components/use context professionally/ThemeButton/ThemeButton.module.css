@@ -1,0 +1,12 @@
+.customSwitch {
+  background-color: rgb(135, 135, 135) !important;
+}
+.customSwitch:checked {
+  background-color: rgb(220, 220, 220) !important;
+}
+.customSwitch {
+  border: 0.5px solid rgb(135, 135, 135) !important;
+}
+.customSwitch:checked {
+  border: 0.5px solid rgb(220, 220, 220) !important;
+}

@@ -1,0 +1,97 @@
+:global(.dropdown-item.active),
+:global(.dropdown-item:active) {
+  background-color: #0dcaf0 !important;
+  color: #000 !important;
+}
+.admin_link_dark {
+  color: black;
+  width: 150px;
+  height: 50px;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  background: #0dcaf0 !important;
+  border-radius: 5px;
+}
+.admin_link_dark:hover {
+  background: #0db1d2 !important;
+}
+.admin_link_light {
+  width: 150px;
+  height: 50px;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  color: white !important;
+  border-radius: 5px;
+  background-color: #0dcaf0 !important;
+}
+.admin_link_light:hover {
+  background: #0db1d2 !important;
+}
+.nav_link_light {
+  color: black !important;
+  transition: 0.5s ease;
+}
+.nav_link_dark {
+  color: white !important;
+  transition: 0.5s ease;
+}
+.nav_link_light:hover {
+  color: #0db1d2 !important;
+  transition: 0.5s ease;
+}
+.nav_link_dark:hover {
+  color: #0db1d2 !important;
+  transition: 0.5s ease;
+}
+.active_link_light {
+  font-weight: bold;
+  color: rgb(160, 160, 160) !important;
+}
+.active_link_dark {
+  font-weight: bold;
+  color: rgb(160, 160, 160) !important;
+}
+.dropdown_menu_custome_dark {
+  background: #212529 !important;
+}
+
+.dropdown_item_custome_dark {
+  color: white !important;
+  width: 95% !important;
+  border-radius: 5px !important;
+  display: block;
+  margin: 0 auto;
+  transition: 0.3s ease;
+}
+.dropdown_item_custome_dark:hover {
+  background: rgb(100, 100, 100) !important;
+  transition: 0.3s ease;
+}
+.dropdown_menu_custome_light {
+  background: white !important;
+}
+
+.dropdown_item_custome_light {
+  color: black !important;
+  width: 95% !important;
+  border-radius: 5px !important;
+  display: block;
+  margin: 0 auto;
+  transition: 0.3s ease;
+}
+.dropdown_item_custome_light:hover {
+  background: rgb(235, 235, 235) !important;
+  transition: 0.3s ease;
+}
+@media (max-width: 991.98px) {
+  .admin_link_light {
+    width: 100px !important;
+    text-align: center;
+  }
+  .admin_link_dark {
+    width: 100px !important;
+    text-align: center;
+  }
+}
